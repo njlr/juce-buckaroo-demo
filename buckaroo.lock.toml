@@ -1,0 +1,129 @@
+manifest = "82101d195ee61350b1c0d35aac405795c6d75944bfda6432ad39faebfb0427c8"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/roli-juce"
+target = "//modules/juce_analytics:juce_analytics"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/roli-juce"
+target = "//modules/juce_audio_basics:juce_audio_basics"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/roli-juce"
+target = "//modules/juce_audio_devices:juce_audio_devices"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/roli-juce"
+target = "//modules/juce_audio_formats:juce_audio_formats"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/roli-juce"
+target = "//modules/juce_audio_processors:juce_audio_processors"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/roli-juce"
+target = "//modules/juce_audio_utils:juce_audio_utils"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/roli-juce"
+target = "//modules/juce_blocks_basics:juce_blocks_basics"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/roli-juce"
+target = "//modules/juce_box2d:juce_box2d"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/roli-juce"
+target = "//modules/juce_core:juce_core"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/roli-juce"
+target = "//modules/juce_cryptography:juce_cryptography"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/roli-juce"
+target = "//modules/juce_data_structures:juce_data_structures"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/roli-juce"
+target = "//modules/juce_dsp:juce_dsp"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/roli-juce"
+target = "//modules/juce_events:juce_events"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/roli-juce"
+target = "//modules/juce_graphics:juce_graphics"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/roli-juce"
+target = "//modules/juce_gui_basics:juce_gui_basics"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/roli-juce"
+target = "//modules/juce_gui_extra:juce_gui_extra"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/roli-juce"
+target = "//modules/juce_opengl:juce_opengl"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/roli-juce"
+target = "//modules/juce_osc:juce_osc"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/roli-juce"
+target = "//modules/juce_product_unlocking:juce_product_unlocking"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/roli-juce"
+target = "//modules/juce_video:juce_video"
+
+[lock."github.com/buckaroo-pm/freetype2"]
+versions = [ "2.9.1" ]
+revision = "e1cf7490e837074728f5a397ff2d0d473cf1e74d"
+
+[lock."github.com/buckaroo-pm/host-dl"]
+versions = [ "branch=master" ]
+revision = "69a239353756c2ef5c97e5a56a0964fb7ac6eb49"
+
+[lock."github.com/buckaroo-pm/host-pthread"]
+versions = [ "branch=master" ]
+revision = "a62519aa69c8e3243d6065fbf4c1d2de072f86f6"
+
+[lock."github.com/buckaroo-pm/madler-zlib"]
+versions = [ "1.2.11" ]
+revision = "94a70f3274f15bf98b472178e91fd57a6e6c53d8"
+
+[lock."github.com/buckaroo-pm/pkg-config-alsa"]
+versions = [ "branch=master" ]
+revision = "9f082bbd4a1dd8f4cbeffdac77b86ccf411e5a19"
+
+[lock."github.com/buckaroo-pm/pkg-config-curl"]
+versions = [ "branch=master" ]
+revision = "172dabe81beabe3f4dce71d66a5ff9251ef9ef11"
+
+[lock."github.com/buckaroo-pm/pkg-config-gl"]
+versions = [ "branch=master" ]
+revision = "c8734a6884d0aaa713c059673a103fe58de08084"
+
+[lock."github.com/buckaroo-pm/pkg-config-gtk-3.0"]
+versions = [ "branch=master" ]
+revision = "6d0be4a44762dbc8e4fdbf5fa9136b1f623ee08a"
+
+[lock."github.com/buckaroo-pm/pkg-config-webkit2gtk-4.0"]
+versions = [ "branch=master" ]
+revision = "2f50cec547cfda5619d7ae2b6dde3f5c0f6f9790"
+
+[lock."github.com/buckaroo-pm/pkg-config-x11"]
+versions = [ "branch=master" ]
+revision = "6f292a6166cd3c45c776b294485a24e7d71c0e0c"
+
+[lock."github.com/buckaroo-pm/pkg-config-xext"]
+versions = [ "branch=master" ]
+revision = "a2f58a6d1ca80f005eb749565d8de81ed553a19c"
+
+[lock."github.com/buckaroo-pm/roli-juce"]
+versions = [ "branch=master" ]
+revision = "157eb7a4a5aa346330642658e0adc4bbd6fac917"
